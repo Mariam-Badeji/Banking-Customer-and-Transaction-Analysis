@@ -6,3 +6,9 @@ The company has a comprehensive data on their customers segmentation and insight
 
 Recommendations and insights are provided on the following key areas:
 
+- Revenue Analysis: Identifying which products and customers generate the most revenue versus those that incur higher costs.
+- Transaction Analysis: Tracking transaction trends over time, including seasonal peaks and slowdowns.
+- Customer Behavior Trends: Evaluation of how each customer interact with product and if they are getting the right recommendation for their financial needs and Understanding customer behavior across segments and channels (mobile, branch, ATM, online).
+- Regional Comparisons: An assessment of which bank branch city got the most revenue.
+- Product Performance: Evaluates which product type brought in the most revenue in terms of fees.
+
