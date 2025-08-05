@@ -34,4 +34,9 @@ After having peaked in the late 2023, total fees (revenue) have continued to gro
 <img width="1035" height="284" alt="Feess" src="https://github.com/user-attachments/assets/b51ce9d4-cf50-46b2-b5b7-4e67c10c0519" />
 
 ### Revenue Analysis
+- The bank’s revenue grew at a steady rate through the year so I can’t really say it peaked but the highest revenue amount (value) was in July 2023 and the subsequent lowest being in the same year in September. A Pattern I did notice was that some of the lowest values of the revenue were in the same month for both 2023 and 2024 dataset except 2025. –Loan payment transactions drive the most fee-based revenue (approximately €383,248.58) largely due to: Late payment Amounts, Insurance fees, and some credit card fees.
+- There was a decline in the volume of revenue from 2023 by 54 which is a -1.12% change from the previous year while the value of revenue saw a decline of €6,959 at -2.57% change. This decline was mostly in the late payment fee which saw a decline of €4,304 and the rest was shared amongst insurance fee (€1,142) and credit card fee (€1,513).
+- The **Middle-Income segment** emerged as the strongest contributor to overall revenue, generating 5,161 transactions (highest by volume) and €286,605.67 in total revenue (highest by value). This indicates that middle-income customers are both highly active and financially significant, making them a critical segment for sustaining growth.
+- **Mobile banking** is the leading revenue channel, generating **3,023 transactions and €166,971.73 in value**. **Branch banking** follows closely with 2,923 transactions and €162,786.77 in value. This suggests that while branches remain important, mobile banking is becoming the dominant channel for revenue generation.
 
+<img width="1688" height="578" alt="Rev" src="https://github.com/user-attachments/assets/1b0a650b-c5e3-4f76-b677-aa1f727b8737" />
