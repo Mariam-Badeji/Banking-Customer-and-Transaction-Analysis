@@ -72,8 +72,16 @@ After having peaked in the late 2023, total fees (revenue) have continued to gro
 
 <img width="1676" height="850" alt="Customer" src="https://github.com/user-attachments/assets/97a4dd86-8215-4a1f-bb2a-34c68dc297ba" />
 
-### Regional:
-- Growth trends: Only Murcia and Zaragoza showed an increase in revenue volume over the period, while Valencia experienced a notable, dropping from €34,398.69 to €28,310.04 from 2023 - 2024.
+<img width="1052" height="270" alt="relate" src="https://github.com/user-attachments/assets/97c8fcc6-3186-40ca-b537-35724e8c61f0" />
 
-- Top contributors: Barcelona, Malaga, and Murcia emerged as the leading branches, each generating over €85,000 in revenue value.
+### Regional:
+- **Growth trends:** Only Murcia and Zaragoza showed an increase in revenue volume over the period, while Valencia experienced a notable, dropping from €34,398.69 to €28,310.04 from 2023 - 2024.
+
+- **Top contributors:** Barcelona, Malaga, and Murcia emerged as the leading branches, each generating over €85,000 in revenue value.
 <img width="620" height="825" alt="Branch" src="https://github.com/user-attachments/assets/4cb8c0b4-3765-4391-a0a1-e4509f5ec8fb" />
+
+### Product Evaluation:
+- Product recommendations generally align with customer financial needs and behaviors. For example, low-income segment customers are frequently recommended the Financial Literacy Program, which is appropriate given their higher fee-to-income ratio. This suggests that targeted recommendations are being used to address financial strain within this segment.
+
+<img width="1055" height="312" alt="Product" src="https://github.com/user-attachments/assets/a2311015-d07b-4c45-bc4b-6132aa7ea889" />
+
