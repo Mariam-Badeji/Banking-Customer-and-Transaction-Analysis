@@ -7,7 +7,7 @@ The company has a comprehensive data on their customers segmentation and insight
 Insights and recommendations are provided on the following key areas:
 
 - **Revenue Analysis:** Identifying which products and customers generate the most revenue versus those that incur higher costs.
-- **Transaction Analysis:** Tracking transaction trends over time, including seasonal peaks and slowdowns.
+- **Transaction Activity Overview:** Tracking transaction trends over time, including seasonal peaks and slowdowns.
 - **Customer Behavior Trends:** Evaluation of how each customer interact with product and if they are getting the right recommendation for their financial needs and Understanding customer behavior across segments and channels (mobile, branch, ATM, online).
 - **Regional Comparisons:** An assessment of which bank branch city got the most revenue.
 - **Product Performance:** Evaluates which product type brought in the most revenue in terms of fees.
@@ -41,5 +41,39 @@ After having peaked in the late 2023, total fees (revenue) have continued to gro
 
 <img width="1688" height="578" alt="Rev" src="https://github.com/user-attachments/assets/1b0a650b-c5e3-4f76-b677-aa1f727b8737" />
 
-### Transaction Analysis:
-bbb
+### Transaction Activity Overview:
+- Across all channels, a total of 20,000 transactions were recorded. The Middle-Income segment emerged as the most transaction-active group, accounting for 44.43% of all transactions.
+- **Mobile phones** are the most frequently used channel for transactions, which aligns with the growing ease of digital payments through apps. However, the gap between mobile and branch transactions is relatively small, suggesting two possibilities:
+
+    - Older customers may still prefer visiting branches.
+
+  - Network or service limitations could be influencing channel choice.
+
+- When broken down by **customer segment**, the distribution of transactions across channels remains consistent, with mobile dominating. Additionally, transfers, loan payments, and deposits are more common at branches than via mobile, further supporting the idea that certain demographics lean toward in-person banking or face barriers to fully adopting mobile channels.
+<img width="1679" height="846" alt="Transc" src="https://github.com/user-attachments/assets/8bdc077f-d5c6-4414-a4ef-58ea6a4d569b" />
+
+### Customer Behavior Trends:
+- The bank served a total of **8,025** customers, distributed as follows:
+
+    - Middle-income segment: 5,680 customers (largest group)
+
+    - High-income segment: 4,647 customers
+
+    - Low-income segment: 3,530 customers
+
+  Between 2023 and 2024, the customer base grew by 71 customers (1.32%)
+- Although low-income customers contribute the least to overall transactions and revenue (both in volume and value), they incur disproportionately higher fees relative to their income. The fee-to-income ratio highlights this imbalance, indicating that some low-income customers are bearing a heavier financial burden compared to other segments.
+- The most popular **financial product** among customers is **credit cards**. This trend may help explain why middle- and high-income customers account for more transactions: their higher income brackets and stronger credit scores make them better positioned to access and repay credit facilities, driving greater engagement with this product category.
+- There is a positive relationship between customer credit scores and both transaction activity and fee volume. In other words, customers with higher credit scores tend to:
+
+    - Carry out more transactions
+
+    - Incur higher fee volumes, likely due to greater engagement with credit-based products.
+
+<img width="1676" height="850" alt="Customer" src="https://github.com/user-attachments/assets/97a4dd86-8215-4a1f-bb2a-34c68dc297ba" />
+
+### Regional:
+- Growth trends: Only Murcia and Zaragoza showed an increase in revenue volume over the period, while Valencia experienced a notable, dropping from €34,398.69 to €28,310.04 from 2023 - 2024.
+
+- Top contributors: Barcelona, Malaga, and Murcia emerged as the leading branches, each generating over €85,000 in revenue value.
+<img width="620" height="825" alt="Branch" src="https://github.com/user-attachments/assets/4cb8c0b4-3765-4391-a0a1-e4509f5ec8fb" />
