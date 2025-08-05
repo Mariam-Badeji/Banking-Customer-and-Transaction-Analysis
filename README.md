@@ -85,3 +85,19 @@ After having peaked in the late 2023, total fees (revenue) have continued to gro
 
 <img width="1055" height="312" alt="Product" src="https://github.com/user-attachments/assets/a2311015-d07b-4c45-bc4b-6132aa7ea889" />
 
+## Recommendations
+Based on the insights provided, the following recommendations have been provided:
+- **Strengthen Focus on Middle-Income Customers:** Since middle-income customers generate the highest revenue (volume and value), targeted offers—such as mid-tier investment products or loyalty programs—could deepen engagement and sustain growth.
+- **Expand Mobile Banking Capabilities:** With mobile banking leading in revenue and closely followed by branch usage, improving mobile app performance (e.g., reducing downtime, simplifying transfers) could accelerate adoption and reduce reliance on physical branches.
+- **Address Fee Burden for Low-Income Customers:** The high fee-to-income ratio among low-income customers suggests a need for:
+
+  - Fee-capping or flexible payment options
+
+  - Enhanced financial literacy initiatives (building on the existing Financial Literacy Program)
+
+  - Product designs that reduce reliance on costly transactions (e.g., no-fee basic accounts)
+- **Leverage Credit Card Popularity:** With credit cards as the most popular product, especially among middle- and high-income segments, consider:
+    - Premium rewards for high-transaction users
+    - Cross-selling investment or savings products to credit-active customers
+    - Risk-based pricing to maintain portfolio quality as usage grows
+- **Monitor Seasonal and Regional Trends:** Use MoM and YoY tracking to anticipate seasonal slowdowns and design promotions accordingly. Investigate factors driving Murcia and Zaragoza’s revenue growth to replicate in underperforming regions
