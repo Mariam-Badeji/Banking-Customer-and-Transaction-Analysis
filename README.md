@@ -42,4 +42,4 @@ After having peaked in the late 2023, total fees (revenue) have continued to gro
 <img width="1688" height="578" alt="Rev" src="https://github.com/user-attachments/assets/1b0a650b-c5e3-4f76-b677-aa1f727b8737" />
 
 ### Transaction Analysis:
-
+bbb
