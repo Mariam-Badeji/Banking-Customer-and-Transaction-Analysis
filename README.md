@@ -101,3 +101,9 @@ Based on the insights provided, the following recommendations have been provided
     - Cross-selling investment or savings products to credit-active customers
     - Risk-based pricing to maintain portfolio quality as usage grows
 - **Monitor Seasonal and Regional Trends:** Use MoM and YoY tracking to anticipate seasonal slowdowns and design promotions accordingly. Investigate factors driving Murcia and Zaragoza’s revenue growth to replicate in underperforming regions
+
+<img width="1692" height="948" alt="Bank dashboard 1" src="https://github.com/user-attachments/assets/21c24410-5f3a-4012-bfcb-348639280891" />
+
+<img width="1687" height="952" alt="Bank dashboard 2" src="https://github.com/user-attachments/assets/e538bfe1-5ae3-4b4d-a0f9-7a447940c88a" />
+
+<img width="1698" height="953" alt="bank dashboard 3" src="https://github.com/user-attachments/assets/f3822220-0dcf-4039-8fe5-ed4db37f0923" />
