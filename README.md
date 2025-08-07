@@ -74,7 +74,7 @@ After having peaked in the late 2023, total fees (revenue) have continued to gro
 
 <img width="1052" height="270" alt="relate" src="https://github.com/user-attachments/assets/97c8fcc6-3186-40ca-b537-35724e8c61f0" />
 
-### Regional:
+### Regional Comparison:
 - **Growth trends:** Only Murcia and Zaragoza showed an increase in revenue volume over the period, while Valencia experienced a notable, dropping from €34,398.69 to €28,310.04 from 2023 - 2024.
 
 - **Top contributors:** Barcelona, Malaga, and Murcia emerged as the leading branches, each generating over €85,000 in revenue value.
